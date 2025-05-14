@@ -1376,7 +1376,7 @@ footer .footer__social a:hover {
 }
 /* DARK MODE - Toggle via body.dark-theme */
 body.dark-theme .education__content {
-    background-color: #1e1e2f;
+    background-color: #1a1d29; /* Updated from #1e1e2f */
     box-shadow: 0 4px 20px rgba(255, 255, 255, 0.05);
 }
 
@@ -1394,8 +1394,4 @@ body.dark-theme .education__calendar {
 
 body.dark-theme .education__description {
     color: #d1d5db;
-}
-
-body.dark-theme .education.section {
-    background: linear-gradient(120deg, #121212, #1f1f2e);
 }
