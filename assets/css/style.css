@@ -528,7 +528,7 @@ img {
 }
 
 .skills__react {
-  width: 40%;
+  width: 70%;
 }
 
 .skills__php {
@@ -536,15 +536,15 @@ img {
 }
 
 .skills__mysql {
-  width: 72%;
+  width: 75%;
 }
 
 .skills__node {
-  width: 58%;
+  width: 70%;
 }
 
 .skills__python {
-  width: 94%;
+  width: 90%;
 }
 
 .skills__blender {
@@ -557,6 +557,26 @@ img {
 
 .skills__adobeillustrator {
   width: 62%;
+}
+
+.skills__mongodb {
+  width: 70%;
+}
+
+.skills__express {
+  width: 70%;
+}
+
+.skills__oracle {
+  width: 65%;
+}
+
+.skills__java {
+  width: 60%;
+}
+
+.skills__c {
+  width: 80%;
 }
 
 .skills__close .skills__list {
